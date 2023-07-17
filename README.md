@@ -28,7 +28,7 @@ Sigue los pasos a continuación para ejecutar el script:
 2. Ejecuta el script ["Class_Mushrooms.py"](Class_Mushrooms.py) usando el siguiente comando:
 
 ```python
-python mushroom_classification.py
+python Class_Mushrooms.py
 ```
 
 El script realizará las siguientes tareas:
