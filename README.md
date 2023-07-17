@@ -2,6 +2,8 @@
 
 Este repositorio contiene un script de Python para clasificar hongos comestibles y venenosos utilizando un algoritmo de Random Forest. El script utiliza el conjunto de datos ["mushrooms.csv"](mushrooms.csv) para entrenar y evaluar el clasificador.
 
+![](450_1000.png)
+
 ## Requisitos
 
 Asegúrate de tener instaladas las siguientes dependencias antes de ejecutar el script:
